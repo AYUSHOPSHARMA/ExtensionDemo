@@ -1,0 +1,7 @@
+com\extension\demo\springboot\core\ext\main\ExtensionApplication.class
+com\extension\demo\springboot\core\rest\bean\ContractInfo.class
+com\extension\demo\springboot\core\rest\core\logic\template\ExtContractInfoServiceLogic.class
+com\extension\demo\springboot\core\rest\param\GetContractInfosParams.class
+com\extension\demo\springboot\core\rest\bean\template\IContractInfo.class
+com\extension\demo\springboot\core\rest\ContractInfosService.class
+com\extension\demo\springboot\core\rest\param\bean\ContractInfoListParamBean.class

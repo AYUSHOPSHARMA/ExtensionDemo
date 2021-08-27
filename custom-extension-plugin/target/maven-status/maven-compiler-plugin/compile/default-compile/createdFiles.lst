@@ -1,0 +1,4 @@
+com\extension\demo\springboot\plugin\ActivatorChild.class
+com\extension\demo\springboot\plugin\ChildConfig.class
+com\extension\demo\springboot\custom\rest\logic\ext\impl\ExtContractInfoServiceLogicImpl.class
+com\extension\demo\springboot\custom\rest\bean\ext\impl\ContractInfoExt.class

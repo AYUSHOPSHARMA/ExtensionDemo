@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: z8a335
+Build-Jdk: 11.0.5
+Implementation-Title: core-plugin
+Implementation-Version: 1.1.1-SNAPSHOT
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/core-plugin/
+Created-By: Maven Integration for Eclipse
+

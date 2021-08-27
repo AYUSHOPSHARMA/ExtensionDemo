@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: core-plugin.jar 
+ core-extension-template-plugin.jar
+
